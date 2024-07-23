@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [hegdesumanth.me](hegdesumanth.me)
+- 👨‍💻 All of my projects are available at [hegdesumanth.tech](hegdesumanth.tech)
 
 - 💬 Ask me about **React, Nodejs, Full-Stack Development**
 
